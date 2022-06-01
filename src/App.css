@@ -43,3 +43,6 @@
   color: #fff;
   cursor: pointer;
 }
+.errorMsg, .successfulMsg{
+  color: #ff1100;
+}
